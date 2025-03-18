@@ -26,11 +26,10 @@ El objetivo de este proyecto es desarrollar un modelo predictivo basado en datos
 │       └── AdaBoost.pkl
 ├── notebooks/                  # Notebook de exploración y desarrollo
 │   └── exploracion.ipynb
-├── reports/                    # Informes finales en PDF
+├── reports/                    # Informes en PDF
 │   ├── EDA.pdf
 │   ├── Preprocess.pdf
-│   ├── Modeling.pdf
-│   └── Informe final.pdf
+│   └──  Modeling.pdf
 ├── src/
 │   ├── eda.py                  # Módulo de Análisis Exploratorio de Datos
 │   ├── preprocesamiento.py     # Módulo de Preprocesamiento de Datos
@@ -45,6 +44,7 @@ El objetivo de este proyecto es desarrollar un modelo predictivo basado en datos
 │   ├── weekday_analysis.png
 │   ├── weekday_vs_weekend.png
 │   └── weekday_category_comparison.png
+├── Informe final.pdf           # Informe consolidad
 ├── README.md
 └── requirements.txt            # Dependencias del proyecto
 ```
